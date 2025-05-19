@@ -27,6 +27,7 @@ compdef -d svn
 compdef -d cvs
 compdef -d zypper
 compdef -d git
+compdef -d docker
 
 now_predict=0
 
